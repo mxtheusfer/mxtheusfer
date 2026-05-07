@@ -37,7 +37,7 @@ Atualmente, meu foco principal e domínio estão no ecossistema moderno da web, 
 
 <div align="center">
   <img height="150" src="https://streak-stats.demolab.com?user=mxtheusfer&theme=radical&hide_border=false"/>
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mxtheusfer&layout=compact&langs_count=7&theme=radical&hide_border=false&bg_color=0d1117&title_color=ff6e96&text_color=ffffff"/>
+  <img height="150" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mxtheusfer&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
 ---
