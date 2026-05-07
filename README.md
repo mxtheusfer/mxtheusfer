@@ -36,13 +36,13 @@ Atualmente, meu foco principal e domínio estão no ecossistema moderno da web, 
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&langs_count=7&theme=radical"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=mxtheusfer&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mxtheusfer&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
 ---
 
 ### 📫 Como me encontrar
 
-- [LinkedIn](https://linkedin.com/in/seu-perfil)
-- [E-mail](mailto:seu-email@exemplo.com)
+- [LinkedIn](https://www.linkedin.com/in/matheus-ferracini/)
+- [E-mail](mailto:matheusferracini.2016@gmail.com)
