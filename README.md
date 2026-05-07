@@ -36,8 +36,7 @@ Atualmente, meu foco principal e domínio estão no ecossistema moderno da web, 
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="150" src="https://streak-stats.demolab.com?user=mxtheusfer&theme=radical&hide_border=false"/>
-  <img height="150" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mxtheusfer&layout=compact&langs_count=7&theme=radical"/>
+  <img src="https://ghchart.rshah.org/mxtheusfer" alt="GitHub Contributions Chart"/>
 </div>
 
 ---
