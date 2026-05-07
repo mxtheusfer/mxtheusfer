@@ -1,14 +1,14 @@
-# Olá! 👋 
+# Olá! 👋 Eu sou Matheus 
 Sou um **Desenvolvedor Full Stack** com sólida base em infraestrutura. Após 3 anos de dedicação, sou formado em **Redes de Computadores**, o que me proporciona uma visão profunda não apenas de como o código funciona, mas de como ele interage com servidores, protocolos e toda a arquitetura de rede.
 
 Atualmente, meu foco principal e domínio estão no ecossistema moderno da web, criando aplicações escaláveis, performáticas e completas de ponta a ponta.
 
 ### 🙋‍♂️ Sobre mim
 
-- 💻 Especialista em **JavaScript**, **TypeScript** e **Next.js**.
-- 🌐 Formado em Redes de Computadores, unindo o desenvolvimento de software com conhecimentos avançados de infraestrutura e hospedagem.
-- ⚙️ Experiência em configurar e otimizar ambientes de servidores (Linux/Ubuntu) para garantir a melhor performance das aplicações.
-- 🚀 Sempre focado em criar código limpo, manutenção eficiente e arquiteturas resilientes.
+- Especialista em **JavaScript**, **TypeScript** e **Next.js**.
+- Formado em Redes de Computadores, unindo o desenvolvimento de software com conhecimentos avançados de infraestrutura e hospedagem.
+- Experiência em configurar e otimizar ambientes de servidores (Linux/Ubuntu) para garantir a melhor performance das aplicações.
+- Sempre focado em criar código limpo, manutenção eficiente e arquiteturas resilientes.
 
 ---
 
@@ -33,15 +33,7 @@ Atualmente, meu foco principal e domínio estão no ecossistema moderno da web, 
 
 ---
 
-### 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img src="https://ghchart.rshah.org/mxtheusfer" alt="GitHub Contributions Chart"/>
-</div>
-
----
-
-### 📫 Como me encontrar
+### Como me encontrar
 
 - [LinkedIn](https://www.linkedin.com/in/matheus-ferracini/)
 - [E-mail](mailto:matheusferracini.2016@gmail.com)
